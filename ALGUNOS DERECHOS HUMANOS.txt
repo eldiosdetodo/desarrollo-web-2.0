@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Proyecto transversal educacion financiera</title>
+<ul class="menu">
+<button type="button" class="file:///D:/LOS%20DERECHOS%20HUMANOS/ORIGEN%20DE%20LOS%20DERECHOS%20HUMANOS.html">ORIGEN</button>
+<button type="button" class="file:///D:/LOS%20DERECHOS%20HUMANOS/QUE%20SON%20LOS%20DERECHOS%20HUMANOS.html">QUE ES?</button>
+<button type="button" class="file:///D:/LOS%20DERECHOS%20HUMANOS/CARACTERISTICAS%20DE%20LOS%20DERECHOS%20HUMANOS.html">CARACTERISTICAS</button>
+<button type="button" class="file:///D:/LOS%20DERECHOS%20HUMANOS/IMPORTANCIA%20DE%20LOS%20DERECHOS%20HUMANOS.html">IMPORTANCIA</button>
+</head>
+<body bgcolor="#4FFF33" text="black">
+</head>
+<h2>LOS DERECHOS HUMANOS</h2>
+<td> <img colspan=""  align="right" width="440" height="450" src=ddhh-250x180.jpg></td> 
+
+
+</ul>
+<h2>ALGUNOS DERECHOS HUMANOS</h2>
+<ul>
+
+<li>DERECHO A LA VIDA</li>
+<li>DERECHO A LA SALUD</li>
+<li>DERECHO A LA LIBERTAD DE EXPRESION</li>
+<li>DERECHO A LA LIBERTAD DE PENSAMIENTO</li>
+<li>DERECHO A LA SEGURIDAD SOCIAL</li>
+<li>DERECHO A LA EDUCACION</li>
+<li>DERECHO AL VOTO</li>
+<li>DERECHO AL TRABAJO</li>
+<li>DERECHO A PROMOVER LA PAZ Y LA CONVIVENCIA SOCIAL</li>
+<li>DERECHO A PARTICIPAR ACTIVAMENTE EN LA COMUNIDAD</li>
+<li>DERECHO A PRESTAR SERVICIO CIVIL</li>
+<li>DERECHO A LA VIVIENDA</li>
+<li>DERECHO A LA PROPIEDAD PRIVADA</li>
+<li>DERECHO A PAGAR IMPUESTOS</li>
+<li>DERECHO A LOS DEBERES</li>
+<li>DERECHO A LA LIBRE CIRCULACION</li>
+<li>DERECHO A LA LIBRE ASOCIACION</li>
+<li>DERECHO A LA DEMOCRACIA</li>
+<li>DERECHOS A LA NACIONALIDAD</li>
+<li>DERECHO A LA PROTECCION DE LA UNIDAD FAMILIAR</li>
+<li>DERECHO A SOLICITAR ASILO</li>
+<li>DERECHO A LA LIBERTAD RELIGIOSA Y DE CULTO</li>
+
+
+
+<h2>EL DERECHO A LA VIDA</h2>
+
+<p>El derecho a la vida es un derecho universal, es decir que le corresponde a todo ser humano. Es un derecho necesario para poder concretizar 
+todos los demás derechos universales. El derecho a la vida significa tener la oportunidad de vivir nuestra propia vida.<p>
+
+
+<h2>EL DERECHO A LA EDUCACION</h2>
+
+<p>Por su carácter de derecho habilitante, la educación es un instrumento poderoso que permite a los niños y adultos que se encuentran social y 
+económicamente marginados salir de la pobreza y participar plenamente en la vida de la comunidad. Para ello, deben existir la igualdad de oportunidades
+y el acceso universal.</p>
+
+
+<h2>DERECHO AL TRABAJO</h2>
+
+<p>Toda persona tiene derecho al trabajo. El derecho al trabajo es la base para la realización de otros 
+derechos humanos y para una vida en dignidad. Incluye la oportunidad de ganarse la vida mediante un trabajo libremente escogido o aceptado.</p>
+
+
+<h2>DERECHO AL VOTO</h2>
+
+<p>El voto es un derecho y un deber ciudadano. La participación mediante el voto en la vida política, cívica y 
+comunitaria se considera una actitud positiva de apoyo a las instituciones democráticas, y como tal será reconocida, 
+facilitada y estimulada por las autoridades.</p>
+
+
+<h2>DERECHO A LA VIVIENDA</h2>
+
+<p>El derecho a una vivienda adecuada es un derecho humano reconocido en la normativa internacional 
+de los derechos humanos como elemento integrante del derecho a un nivel de vida adecuado.</p>
+
+
+<h2>DERECHO A LA SEGURIDAD</h2>
+
+<p>El derecho a la seguridad social incluye el derecho a no ser sometido a restricciones arbitrarias o poco razonables de la
+cobertura social existente, ya sea del sector público o del privado, así como del derecho a la igualdad en el disfrute de una 
+protección suficiente contra los riesgos e imprevistos sociales.</p>
+
+
+
+<h2>SEBASTIAN ANDRES RODRIGUEZ SALGADO 10°02</h2>
+</body>
+</html>
